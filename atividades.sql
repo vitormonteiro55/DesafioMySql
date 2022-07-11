@@ -1,6 +1,6 @@
-create database turma8;
+create database atividades;
 
-use  turma8;
+use  atividades;
 
 CREATE TABLE fornecedor( 
 	id int AUTO_INCREMENT, 
